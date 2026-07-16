@@ -1,1 +1,13 @@
+journalctl - Usermod Events
 
+This file documents privilege modification events.
+
+Observed Changes:
+
+- Omar added to sudo.
+- Door added to sudo.
+
+These events confirm privilege escalation during the attack.
+
+Evidence Type:
+Privilege Escalation
