@@ -1,1 +1,16 @@
+Session Events
 
+This file summarizes login and session activity collected from journal logs.
+
+Observed Sessions:
+
+- Local administrator login
+- SSH login for Omar
+- Session opened for door
+- Session closed for door
+- SSH session terminated
+
+These events were used to reconstruct the attack timeline.
+
+Evidence Type:
+Authentication Sessions
