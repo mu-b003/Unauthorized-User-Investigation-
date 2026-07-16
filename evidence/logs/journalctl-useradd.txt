@@ -1,1 +1,12 @@
+journalctl - useradd Events
 
+This log contains user account creation events extracted from systemd journal logs.
+
+Key Findings:
+
+- User "Omar" was created by the legitimate administrator.
+- User "door" was later created by Omar through an active SSH session.
+- The timeline confirms that the backdoor account was created after Omar obtained administrative privileges.
+
+Evidence Type:
+Account Creation
