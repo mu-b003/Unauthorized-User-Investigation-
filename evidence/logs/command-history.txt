@@ -1,1 +1,15 @@
+Command History
 
+This file contains command execution records collected during the investigation.
+
+The command history was analyzed to identify:
+
+- SSH service installation
+- User account creation
+- Privilege escalation
+- Password changes
+- Administrative commands
+- Investigation activities
+
+Purpose:
+To reconstruct the sequence of actions performed before and during the incident.
