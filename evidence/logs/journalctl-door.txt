@@ -1,1 +1,15 @@
+journalctl - Door Account Activity
 
+This log contains all events related to the "door" account.
+
+Observed Events:
+
+- Account creation
+- Password assignment
+- Addition to the sudo group
+- Session opened
+- Session closed
+- Authentication attempts
+
+Evidence Type:
+Backdoor Account Activity
