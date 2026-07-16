@@ -1,1 +1,14 @@
+journalctl - Password Events
 
+This log records password modification events observed during the investigation.
+
+Observed Password Changes:
+
+- soc-lab
+- Omar
+- door
+
+The password assigned to the "door" account corresponds to the same time the account was created.
+
+Evidence Type:
+Credential Modification
